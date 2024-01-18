@@ -8,7 +8,7 @@ In the main project, this editor will be used to create maps for the game, witho
 > For start confirm flutter instalation on your machine.
 ``` Bash
 $ git clone https://github.com/denver-code/grid_map_editor
-$ cd grid_map_editorМ
+$ cd grid_map_editor
 $ flutter pub get
 $ flutter run --release
 ```
