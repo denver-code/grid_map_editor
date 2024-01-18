@@ -14,3 +14,6 @@ $ flutter run --release
 ```
 
 [![Watch the video](https://img.youtube.com/vi/QXjfNQDfBns/0.jpg)](https://youtu.be/QXjfNQDfBns)
+
+## Credits
+- Two-dimensional grid implementation provided dy [Piinks](https://gist.github.com/Piinks/4424936c57ed13093eb389123383e894)

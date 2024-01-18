@@ -1,6 +1,6 @@
 import 'package:grid_map_editor/app/models/grid_location_models.dart';
 import 'package:grid_map_editor/app/modules/home/controllers/home_controller.dart';
-import 'package:grid_map_editor/app/ocmponents/two_dimentional_grid.dart';
+import 'package:grid_map_editor/app/components/two_dimentional_grid.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
